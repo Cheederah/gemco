@@ -75,7 +75,7 @@ export default function Home() {
           </div>
         </div>
         <div className="max-w-full">
-          <button className="mt-12 bg-[#EE6F4B] hover:bg-[#d85a3f] text-white font-bold py-3 px-24 rounded-sm transition-colors">
+          <button className="mt-12 bg-[#EE6F4B] hover:bg-[#d85a3f] text-white font-bold py-3 px-24 rounded-sm transition-colors cursor-pointer">
             Get your dog&apos;s healthy meal today!
           </button>
           <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-8">
@@ -129,7 +129,7 @@ export default function Home() {
               </div>
             </div>
 
-            <button className="bg-[#EE6F4B] hover:bg-[#d85a3f] text-white font-bold py-3 px-8 rounded-sm transition-colors">
+            <button className="bg-[#EE6F4B] hover:bg-[#d85a3f] text-white font-bold py-3 px-8 rounded-sm transition-colors cursor-pointer">
               Give your furry friend the gift of wholesome nutrition
             </button>
           </div>
